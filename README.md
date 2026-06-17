@@ -1,5 +1,4 @@
 # Himavarsha Sathyanarayana 🔐
-
 ### Security Automation Engineer → Cybersecurity Master's Student
 
 > *"I don't just find vulnerabilities — I build systems that find them automatically."*
@@ -17,29 +16,35 @@
 
 ---
 
-## ⚡ What I'm Building
 ## 🚀 Projects
 
-### 🔍 SecAudit — Automated Security Defect Reporter
-> Automatically scans for vulnerabilities and raises GitHub Issues with severity ratings  
-> `Python` `GitHub Actions` `Security Automation`  
-> 🔗 [Coming soon]
+| Project | Description | Status |
+|---|---|---|
+| 🔍 [SecAudit](https://github.com/hvarsh-cyber/secaudit) | Automated vulnerability scanner with CI/CD pipeline + auto GitHub Issues | ✅ Live |
+| 🤖 [AI Log Anomaly Detector](https://github.com/hvarsh-cyber/ai-log-anomaly-detector) | Hybrid rule + ML detection for brute force, scanning & odd-hour access | ✅ Live |
+| ☁️ Cloud Security Posture Tool | AWS misconfiguration scanner against CIS Benchmarks | 📋 Planned |
 
 ---
+
 ## 🛠️ Tech Stack
 
 ```python
 skills = {
-    "security":   ["OWASP Top 10", "API Security", "LLM Security", "Vuln Assessment"],
+    "security":   ["OWASP Top 10", "API Security", "LLM Security", "Vuln Assessment", "Anomaly Detection"],
     "languages":  ["Python", "JavaScript", "SQL", "Bash"],
-    "tools":      ["Robot Framework", "GitHub Actions", "Docker", "JIRA"],
+    "tools":      ["Robot Framework", "GitHub Actions", "Docker", "JIRA", "scikit-learn"],
     "cloud":      ["AWS", "Azure", "GCP"]
 }
 ```
+
+---
+
 ## 📜 Certifications
+
 - OWASP Top 10 for LLM Applications
 - Cloud Security Fundamentals — AWS, Azure, GCP
 - IBM Generative AI for Developers
+
 ---
 
 ## 🏆 Highlights
@@ -59,5 +64,5 @@ skills = {
 ---
 
 <p align="center">
-  <i>Currently building my cybersecurity portfolio — watch this space 🚀</i>
+  <i>Building my third cybersecurity project — watch this space 🚀</i>
 </p>
